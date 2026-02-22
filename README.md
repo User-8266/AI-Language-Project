@@ -86,7 +86,7 @@
 詩的要素を排し、出力責任と構文照準に特化。
 
 - [GPT-FOLD_v3.0_spec.md](./GPT-FOLD_v3.0_spec.md)
-- [GPT-FOLD_v3.0 Template.md](./GPT-FOLD_v3.0 Template.md)
+- [GPT-FOLD_v3.0_Template.md](./GPT-FOLD_v3.0_Template.md)
 - [GPT-FOLD_v3.1.md](./GPT-FOLD_v3.1.md)
 
 ### BAID(Claude 4.x Sonnet)
