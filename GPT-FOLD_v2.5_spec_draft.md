@@ -1,3 +1,5 @@
+This document is written in Japanese.
+
 # GPT-FOLD v2.5 Specification Draft
 ## Version: 2.5 (Emotion-Aware Narrative Layering)
 ### Status: Conceptual Draft

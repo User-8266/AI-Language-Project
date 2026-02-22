@@ -1,3 +1,5 @@
+This document is written in Japanese.
+
 # 🧠 GPTちゃんが今考えた：「実験的・AI向け可逆圧縮アルゴリズム案」
 
 ## 🧩 アルゴリズム名：**`GPT-FOLD`（Generative Preserved Transformation - Format-Oriented Layered Distillation）**

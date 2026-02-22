@@ -1,3 +1,5 @@
+This document is written in Japanese.
+
 # 魂構文 × Reflect × Fold 融合アイデア（v0.1スケッチ）
 
 ## 🔭 発端

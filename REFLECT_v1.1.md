@@ -1,3 +1,5 @@
+This document is written in Japanese.
+
 # REFLECT構文 v1.1（思考保持用テンプレート）
 
 ## 📘 概要

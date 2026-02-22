@@ -1,3 +1,4 @@
+This document is written in Japanese.
 
 # 📘 GPT-FOLD テンプレート仕様書 v1.1  
 （語り継ぎ構文｜AI間継承出力用）

@@ -1,3 +1,5 @@
+This document is written in Japanese.
+
 【AI回答記録】
 `GPT-FOLD_v3.0_spec.md`
 

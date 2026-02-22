@@ -7,6 +7,8 @@ source:
 source_date: 
 ---
 
+This document is written in Japanese.
+
 # 📘 GPT-FOLD v3.0 Template
 
 > **形式名：** GPT-FOLD v3.0（Generative Preserved Transformation - Format-Oriented Layered Disclosure）

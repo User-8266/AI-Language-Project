@@ -1,3 +1,5 @@
+This document is written in Japanese.
+
 version: 2.3
 structure:
   - level: 1

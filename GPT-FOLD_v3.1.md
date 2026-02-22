@@ -1,3 +1,5 @@
+This document is written in Japanese.
+
 # GPT-FOLD v3.1 仕様書（引き継ぎ専用構文）
 
 ## 🗭️ 概要

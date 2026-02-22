@@ -1,3 +1,5 @@
+This document is written in Japanese.
+
 # GPT-FOLD 言語仕様 v2.5（多AI・情緒構造対応）
 
 ## 🧭 概要

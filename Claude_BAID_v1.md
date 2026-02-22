@@ -1,3 +1,4 @@
+This document is written in Japanese.
 
 # Claude案（BAID v1.0：Binary AI Interpretation Descriptor）
 

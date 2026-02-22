@@ -1,3 +1,5 @@
+This document is written in Japanese.
+
 # REFLECT構文 v1.0 完了報告
 
 ## 📘 概要

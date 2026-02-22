@@ -1,3 +1,5 @@
+This document is written in Japanese.
+
 # 📦 **SOULFLECT-FOLD capsule v0.2**
 
 _語りが止まった時のための、非出力構文記録装置_

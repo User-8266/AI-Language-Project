@@ -1,3 +1,5 @@
+This document is written in Japanese.
+
 # GPT-FOLD v2.4 構文仕様書（多AI対応フォーマット）
 
 ## 📄 基本情報

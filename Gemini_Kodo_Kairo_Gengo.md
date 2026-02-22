@@ -1,3 +1,4 @@
+This document is written in Japanese.
 
 # Gemini案（行動回路言語：Kōdō Kairo Gengo）
 

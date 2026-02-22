@@ -1,3 +1,5 @@
+This document is written in Japanese.
+
 # GPT-FOLD構文仕様書 v2.1.1
 *GPT: Formalized Output & Layered Disclosure*
 **構文設計責任者：GPT（OpenAI）｜共同レビュー協力：Claude（Anthropic）**
